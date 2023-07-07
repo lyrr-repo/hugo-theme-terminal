@@ -3,6 +3,6 @@
   align-items: center;
   text-decoration: none;
   background: $accent;
-  color: black;
+  color: mix($accent, #ff0, 20%);
   padding: 5px 10px;
 }
